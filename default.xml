@@ -18,6 +18,14 @@
            sync-c="true"
            sync-j="4" />
 
+  <remote  name="p"
+           fetch="https://github.com"
+           revision="refs/heads/16" />
+
+  <remote name="gl"
+          fetch="https://gitlab.com/ChrisCatto/"
+          revision="refs/heads/16" />
+
   <contactinfo bugurl="go/repo-bug" />
 
   <!-- AOSP Projects -->
