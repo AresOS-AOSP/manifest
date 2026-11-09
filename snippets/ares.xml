@@ -26,8 +26,6 @@
   <project path="frameworks/libs/systemui" name="AresOS-AOSP/android_frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="ares" />
   <project path="frameworks/native" name="AresOS-AOSP/android_frameworks_native" groups="pdk,sysui-studio" remote="ares" />
 
-  <project path="packages/apps/ElyrionSettings" name="AresOS-AOSP/android_packages_apps_ElyrionSettings" remote="ares" />
-  <project path="packages/apps/GameSpace" name="AresOS-AOSP/android_packages_apps_GameSpace" remote="ares" />
   <project path="packages/apps/Launcher3" name="AresOS-AOSP/android_packages_apps_Launcher3" groups="pdk-fs,sysui-studio,pdk-cw-tvc" remote="ares" />
   <project path="packages/apps/Settings" name="AresOS-AOSP/android_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="ares" />
   <project path="packages/apps/Updater" name="AresOS-AOSP/android_packages_apps_Updater" remote="ares" />
